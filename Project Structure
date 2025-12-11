@@ -1,0 +1,17 @@
+ATS-Project/
+│
+├── app.py                 # Main Flask backend (AI + API logic)
+├── requirements.txt       # All pip dependencies
+├── uploads/               # Uploaded resumes (auto-created)
+│
+├── static/
+│   ├── style.css          # Website styling
+│
+└── templates/
+    ├── index.html         # Homepage
+    ├── ats.html           # ATS Score Checker UI
+    ├── jd.html            # JD to Resume Matcher UI
+    ├── jobsearch.html     # Job Search UI
+    ├── result_ats.html    # ATS Results Page
+    ├── result_jd.html     # JD Match Results Page
+    └── result_job.html    # Job Search Results Page

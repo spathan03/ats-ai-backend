@@ -1,0 +1,11 @@
+flask
+pdfplumber
+python-docx
+sentence-transformers
+transformers
+torch
+spacy
+yake
+scikit-learn
+beautifulsoup4
+requests
