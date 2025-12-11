@@ -1,9 +1,11 @@
 Flask==3.0.0
 flask-cors==4.0.0
 sentence-transformers==2.2.2
-transformers==4.35.2
-torch
+transformers==4.33.0
+huggingface_hub==0.16.4
+torch==2.2.0
 pdfplumber
 python-docx
 PyPDF2
 gunicorn
+numpy<2
